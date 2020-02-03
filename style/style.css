@@ -1,0 +1,162 @@
+html,body{
+padding:0;
+margin: 0;
+height:100%;
+min-width:1000px;
+background: #fff;
+font-family: "Lucida Grande",  "Bitstream Vera Sans", "Verdana";
+font-size: 12px;
+line-height: 22px;
+color: #444;
+}
+
+h1{
+color: #444;
+font-size: 14px;
+border-bottom: 1px dotted #888;
+}
+
+h2{
+color: #444;
+font-size: 12px;
+}
+
+#Software img{
+float: left;
+margin: 0px 20px 20px 0px;
+height: 100px;
+border: 1px solid #ddd;
+}
+
+#Software p{
+width: 800px;
+}
+
+a{
+text-decoration:none;
+color: #0b5fa5;
+}
+
+a:hover{
+text-decoration:underline;
+color: #a60400;
+}
+
+div#container{
+position:relative;
+height:auto !important;
+height:100%;
+min-height:100%;
+text-align: justify;	
+background:#fff;
+margin: 0px;
+padding: 0px;
+}
+
+#header{
+margin: 0px;
+padding: 0px;
+}
+
+#content{
+background:#fff;
+padding: 3em 3em 5em;
+}
+
+#menu {
+background: #006;
+float: left;
+list-style: none;
+margin: 0;
+margin-bottom: 30px;
+padding: 0;
+border-bottom: 1px #006 solid;
+width: 100%;
+}
+
+#menu li {
+float: left;
+font: 100% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+border-right: 1px #006 solid;
+margin: 0;
+padding: 0;
+}
+
+#menu a {
+background: #224bbd;
+color: #fff;
+display: block;
+float: left;
+margin: 0;
+padding: 12px 12px;
+text-decoration: none;
+}
+
+#menu a:hover {
+background: #ffbe00;
+color: #a60400;
+padding-bottom: 12px;
+}
+
+b.important{
+color: #a60400;
+}
+
+.box .misc{
+width: 100%;	
+}
+
+.box img{
+float: left;
+margin-top: 0px;
+margin-right: 20px;
+padding: 3px;
+border: 1px solid #aaa;
+}
+
+.box .misc b{
+color: #444;
+1}
+
+.box ul{
+list-style-type: none;
+margin-left: -15px;
+}
+
+.hot{
+color: #a60400;
+}
+
+li.paper{
+list-style-type: decimal;
+/*background: no-repeat transparent url(images/book.jpg) 0px 0px;*/
+margin-left: 15px;
+}
+
+li.course{
+list-style-type: disc;
+/*background: no-repeat transparent url(images/black.png) 0px 0px;*/
+margin-left: 15px;
+}
+
+#logo{
+float: right;
+margin-right: 15px;
+margin-top: -60px;
+}
+
+div#footer{
+position:absolute;
+width:100%;
+bottom:0;
+border-top: 1px #888 solid;
+background:#ccc;
+margin:0;
+padding: 10px 0px;
+padding-bottom:6px;
+text-align:center;
+}
+
+#footer img{
+border-style:none;
+}
