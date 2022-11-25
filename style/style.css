@@ -92,6 +92,12 @@ padding: 12px 12px;
 text-decoration: none;
 }
 
+#menu a.highlighted{
+background: #a60400;
+color: #fff;
+}
+
+
 #menu a:hover {
 background: #ffbe00;
 color: #a60400;
