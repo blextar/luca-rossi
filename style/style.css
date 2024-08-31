@@ -164,6 +164,12 @@ padding-bottom:6px;
 text-align:center;
 }
 
+p.highlighted{
+margin: 0px;
+background: #ddd;
+padding: 0.5em;
+}
+
 #footer img{
 border-style:none;
 }
